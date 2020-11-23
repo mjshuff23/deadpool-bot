@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/mjshuff23/deadpool-bot/issues"
   },
-  "homepage": "https://github.com/mjshuff23/deadpool-bot#readme"
+  "homepage": "https://github.com/mjshuff23/deadpool-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.0",
+    "eslint": "^7.14.0"
+  }
 }
